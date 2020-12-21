@@ -6,3 +6,5 @@ command 2: rm -rf .git
 
 command 3: notepad README.txt
 - This creates a text file called README within the folder, which opens notepad window for further editing
+
+this is version 1
