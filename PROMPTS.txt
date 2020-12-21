@@ -1,0 +1,8 @@
+command 1: git init. / git init [folder name]
+- This initializes an empty Git repo for the folder with version control
+
+command 2: rm -rf .git
+- This removes the folder from the git repo that we previously created
+
+command 3: notepad README.txt
+- This creates a text file called README within the folder, which opens notepad window for further editing
